@@ -53,7 +53,7 @@ end PKG_Pruebas;
 /
 CREATE OR REPLACE PACKAGE BODY PKG_Pruebas AS
 
- 
+-- este es un comentario de prueba 
   
 PROCEDURE SUGIERO_PROX_CODIGO
 
